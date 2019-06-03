@@ -2,7 +2,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/Lichthagel/dotfiles/octogonal/screenshots/screen1.png)
 
-[Used wallpaper (upscaled)](https://www.deviantart.com/brunowc/art/Goblin-Slayer-770531853)
+[Used wallpaper](https://www.reddit.com/r/wallpaper/comments/bhqp3z/settlers_of_catan_1920x1080)
 
 ## Used stuff
 
