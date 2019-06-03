@@ -1,6 +1,6 @@
 # Octogonal Red
 
-![Screenshot](https://raw.githubusercontent.com/Lichthagel/dotfiles/octogonal/screenshots/screen1.png)
+![Screenshot](https://raw.githubusercontent.com/Lichthagel/dotfiles/octogonal/screenshots/screen.png)
 
 [Used wallpaper](https://www.reddit.com/r/wallpaper/comments/bhqp3z/settlers_of_catan_1920x1080)
 
